@@ -11,7 +11,6 @@ with open("/home/alimahfoud24/ALI/inputDay12.txt") as file:
         Path[destinations[1]].append(destinations[0])
         line = file.readline()
 
-# print(lower)
 
 
 def get_path():
