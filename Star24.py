@@ -34,7 +34,6 @@ def OncePerCave(cave_l2):
     lower_cave2 = [x for x in cave_l2 if x.count(x) < 2]
     return True
 
-
 p = ['start']
 Result = 0
 get_path()
